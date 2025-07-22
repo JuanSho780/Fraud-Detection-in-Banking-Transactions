@@ -4,3 +4,6 @@ numpy
 matplotlib
 seaborn
 openpyxl
+boto3
+json
+dotenv
