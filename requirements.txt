@@ -7,3 +7,5 @@ openpyxl
 boto3
 json
 dotenv
+tenacity
+sagemaker
